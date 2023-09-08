@@ -37,5 +37,14 @@
 # 문제
 
 <details>
+<summary><strong>🚧 2023-09-08 ~ 2023-09-14</strong></summary>
+<br/>
 
+|                         문제                         |
+|:--------------------------------------------------:|
+| [스도쿠](https://www.acmicpc.net/problem/2580) |
+|   [양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343?language=java)    |
+|   [\[모의 SW 역량테스트\] 핀볼 게임](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRF8s6ezEDFAUo&)    |
+|   [치즈](https://www.acmicpc.net/problem/2638)    |
+|   [인구 이동](https://www.acmicpc.net/problem/16234)    |
 </details>
