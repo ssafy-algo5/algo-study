@@ -43,11 +43,11 @@
 
 |                         문제                         |
 |:--------------------------------------------------:|
-|   <a href="https://www.acmicpc.net/problem/2580" target="_blank">스도쿠</a> |
-|   <a href="https://school.programmers.co.kr/learn/courses/30/lessons/92343?language=java" target="_blank">양과 늑대</a> |
-|   <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRF8s6ezEDFAUo&" target="_blank">[모의 SW 역량테스트] 핀볼 게임</a> |
-|   <a href="https://www.acmicpc.net/problem/2638" target="_blank">치즈</a> |
-|   <a href="https://www.acmicpc.net/problem/16234" target="_blank">인구 이동</a> |
-|   <a href="https://www.acmicpc.net/problem/17281" target="_blank">⚾</a> |
+<a href="https://www.acmicpc.net/problem/2580" target="_blank" rel="noopener noreferrer">스도쿠</a>
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/92343?language=java" target="_blank" rel="noopener noreferrer">양과 늑대</a>
+<a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRF8s6ezEDFAUo&" target="_blank" rel="noopener noreferrer">[모의 SW 역량테스트] 핀볼 게임</a>
+<a href="https://www.acmicpc.net/problem/2638" target="_blank" rel="noopener noreferrer">치즈</a>
+<a href="https://www.acmicpc.net/problem/16234" target="_blank" rel="noopener noreferrer">인구 이동</a>
+<a href="https://www.acmicpc.net/problem/17281" target="_blank" rel="noopener noreferrer">⚾</a>
 
 </details>
