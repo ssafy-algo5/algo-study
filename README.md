@@ -24,9 +24,9 @@
 
 ## 폴더 구조
 
-- 출처/P + 문제 번호/닉네임/
+- 출처/P + 문제 번호/이름/
     - e.g.
-        - BOJ/P1234/whgdk123/
+        - BOJ/P1234/whgdkdy/
 
 ## PR 규칙
 
@@ -38,7 +38,20 @@
 
 <details>
     
-<summary><strong>🚧 2023-09-08 ~ 2023-09-14</strong></summary>
+<summary><strong>🚨2주차: 2023-09-14 ~ 2023-09-21</strong></summary>
+<br/>
+
+|                         문제                         |
+|:--------------------------------------------------:|
+|   [창용 마을 무리의 개수](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWngfZVa9XwDFAQU&) |
+|   [수영대회 결승전 ( 완전 탐색 + 구현 )](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AWKaG6_6AGQDFARV)    |
+|   [\[모의 SW 역량테스트\] 보호 필름](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V1SYKAaUDFAWu)    |
+
+</details>
+
+<details>
+    
+<summary><strong>🚧1주차: 2023-09-08 ~ 2023-09-14</strong></summary>
 <br/>
 
 |                         문제                         |
