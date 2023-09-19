@@ -46,6 +46,7 @@
 |   [창용 마을 무리의 개수](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWngfZVa9XwDFAQU&) |
 |   [수영대회 결승전 ( 완전 탐색 + 구현 )](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AWKaG6_6AGQDFARV)    |
 |   [\[모의 SW 역량테스트\] 보호 필름](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V1SYKAaUDFAWu)    |
+|   [\[모의 SW 역량테스트\] 숫자 만들기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeRZV6kBUDFAVH)    |
 
 </details>
 
