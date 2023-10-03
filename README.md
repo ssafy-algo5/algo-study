@@ -50,8 +50,6 @@
 </details>
 
 <details>
-
-<details>
     
 <summary><strong>🚨2주차: 2023-09-14 ~ 2023-09-21</strong></summary>
 <br/>
