@@ -38,6 +38,21 @@
 
 <details>
     
+<summary><strong>✈️3주차: 2023-09-28 ~ 2023-10-05</strong></summary>
+<br/>
+
+|                         문제                         |
+|:--------------------------------------------------:|
+|   [\[모의 SW 역량테스트\] 무선 충전](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo) |
+|   [\[모의 SW 역량테스트\] 미생물 격리](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV597vbqAH0DFAVl)    |
+|   [톱니바퀴](https://www.acmicpc.net/problem/14891)    |
+
+</details>
+
+<details>
+
+<details>
+    
 <summary><strong>🚨2주차: 2023-09-14 ~ 2023-09-21</strong></summary>
 <br/>
 
